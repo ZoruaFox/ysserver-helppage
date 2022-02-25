@@ -31,4 +31,4 @@
 
 同样的，只有加入手机端官方群才能够获取租赁服ID与密码，请进群后私聊群主获取服务器加入参数！
 
-有兽焉我的世界中国版手游服务器群号：`894139926`</br>加群链接：[点此加入有兽焉我的世界中国版手游服务器官群](https://qm.qq.com/cgi-bin/qm/qr?k=QcQmfgtensuc9aKTLmgHUwPCJPuryOCV&authKey=92Bf1%2FmT279FkoUES%2F67X5PxJL3wSwDTI307EHCYx1hQZe0k9yE9wulGWFJXslWx&noverify=0&group_code=894139926)
+有兽焉我的世界中国版手游服务器群号：`894139926`</br>加群链接：[点此加入有兽焉我的世界中国版手游服务器官群](https://jq.qq.com/?_wv=1027&k=T2IvVOqz)
