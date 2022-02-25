@@ -1,0 +1,34 @@
+# 加入服务器
+------------
+## 电脑端(Java版)服务器
+
+### <font color="FF6347">未加入粉丝服PC官群</font>
+啊这，虽然但是，你也可以从GitHub上的这个“[发行界面（Release）](https://github.com/ZoruaFox/YSY-Server/releases)”获得服务器的整合包。
+
+但是群文件里也有一模一样的，而且群文件里的下载还快，而且最终注册还得进群，还不如赶紧加群(✪ω✪)
+
+群号是：`971327134`，加群链接：[点此加入有兽焉粉丝服PC官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
+### <font color="7CFC00">已加入粉丝服PC官群</font>
+恭喜你，如果你已经认真阅读过公告的话，你应该已经下载好安装包已经准备启动了，那我就在这里补充几个小技巧吧</br>
+1. 推荐使用快捷方式的方法把源文件夹放在其他目录中。
+2. Java的启动参数一般不用更改，启动器将会自动对内存进行分配。
+3. 离线登录、正版登均可以连接到服务器，但暂未尝试过外置登录的可用性，如您在使用类似LittleSkin的第三方外置登录认证器出现登录问题，请先尝试更换为正版登录或离线登录，若问题仍未解决，可在群内询问或直接发布[Issues](https://github.com/ZoruaFox/YSY-Server/issues)。
+4. 注意，服务端的暮色森林模组会与光影核心OptiFine的某些特性发生冲突，导致一些暮色森林的实体和材质出现异常。如果想要体验完整暮色材质可尝试卸载OptiFine。
+5. 如果遇到…no further information的，例如</br>
+`java.net.connectException:Connection timed out:no further information.`
+很有可能是您的客户端网络连接失败，请检查客户端主程序是否被Windows防火墙拦截。
+6. 请尽量不要使用除了群内的客户端与手机PojavLauncher之外的第三方客户端，因第三方客户端造成的系统误判将更加难以解禁。
+
+## 手机端(基岩版)网易租赁服
+<font color="FF0000">注意，手机端服务器为网易版我的世界中的租赁服，并非国际版Minecraft Bedrock version</font></br>
+<font color="FF0000">基岩版与Java版数据不互通，分开运营。</font>
+
+如果说你习惯了使用手机版Minecraft玩游戏，对电脑版的操作不甚了了，燕子在这里强烈推荐加入由豆腐皮维护的网易版我的世界租赁服！
+
+有兽焉我的世界中国版手游服务器于2019年10月10日开服，经过@明月清松 大大对原版生存指令的极致运用，目前服务器运行在纯生存的环境下，已经支持连锁挖矿、金块传送、雪球回城、宠物传送等实用功能。
+
+时至今日，在热爱有兽焉、热爱Minecraft的服务器成员的共同努力下，已经以“基地”为发展中心，铸就了数量可观的，令人惊叹的建筑杰作，将纯生存的资源运用到极致，也何尝不是一种热爱的力量。
+
+同样的，只有加入手机端官方群才能够获取租赁服ID与密码，请进群后私聊群主获取服务器加入参数！
+
+有兽焉我的世界中国版手游服务器群号：`894139926`</br>加群链接：[点此加入有兽焉我的世界中国版手游服务器官群](https://qm.qq.com/cgi-bin/qm/qr?k=QcQmfgtensuc9aKTLmgHUwPCJPuryOCV&authKey=92Bf1%2FmT279FkoUES%2F67X5PxJL3wSwDTI307EHCYx1hQZe0k9yE9wulGWFJXslWx&noverify=0&group_code=894139926)

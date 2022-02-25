@@ -1,0 +1,6 @@
+* [主页](/)
+* [基本信息](basicinfo.md)
+* [现在就加入服务器！](install.md)
+* [服务器指令查阅(持续更新)](commands.md)
+* [常见问题FAQ](info.md)
+* [维护记录](changelog.md)
