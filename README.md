@@ -4,9 +4,6 @@
 服务器群号：`971327134`</br>
 加群链接：[点此加入有兽焉粉丝服PC官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)</br>
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="2019-10-07-为明天打打Call/钢铁洪流进行曲.mp3"></iframe>
-
-
 ## 导言
 
 如你所见，这是一个关于Minecraft有兽焉粉丝服务器的wiki页面，你可以把它理解为一个 **帮助文档** 。
