@@ -5,7 +5,7 @@
 加群链接：[点此加入有兽焉粉丝服PC官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)</br>
 
 <audio id="audio" controls="" preload="none">
-      <source id="mp3" src="音频地址">
+      <source id="mp3" src="./Maroon-5-Lucky-Strike.mp3">
 </audio>
 
 ## 导言
