@@ -4,6 +4,14 @@
 服务器群号：`971327134`</br>
 加群链接：[点此加入有兽焉粉丝服PC官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)</br>
 
+<embed
+src=http://www.whlib.com/02.mp3
+width=200
+height=45
+type=audio/mpeg
+loop="false"
+autostart="true">
+
 ## 导言
 
 如你所见，这是一个关于Minecraft有兽焉粉丝服务器的wiki页面，你可以把它理解为一个 **帮助文档** 。
