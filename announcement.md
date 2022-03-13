@@ -1,2 +1,2 @@
-# <center>404 Not Found</center>
-<center>Page doesn't exist</center>
+# 404 Not Found
+Page doesn't exist
