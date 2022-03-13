@@ -4,3 +4,4 @@
 * [服务器指令查阅(持续更新)](commands.md)
 * [常见问题FAQ](info.md)
 * [维护记录](changelog.md)
+* [针对版本升级的说明](announcement.md)
