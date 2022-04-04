@@ -1,9 +1,15 @@
 # 维护记录
 ------------
 
-<center><big><big><big><big>不 要 催 更 !</big></big></big></big></center>
+<center><big><big><big><big>**不 要 催 更 !**</big></big></big></big></center>
 
 ### 2022.04
+
+#### 2022.4.4功能测试
+
+* 测试 死亡扣钱功能  ——Failed
+* 测试 迁移至1.18  ——Failed
+* 测试 部分附魔  ——Success
 
 #### 2022.4.3 机制更新
 
