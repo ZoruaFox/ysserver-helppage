@@ -1,9 +1,15 @@
 # 维护记录
 ------------
 
-<center><big><big><big><big><bold>不 要 催 更 !</bold></big></big></big></big></center>
+<center><big><big><big><big><bold>想招管理</bold></big></big></big></big></center>
 
 ### 2022.04
+
+#### 2022.4.11
+
+* 修改 提升部分附魔最高等级
+* 修改 开放某些之前无法获得的附魔
+* 修复 全球市场在地皮世界依然可用的bug
 
 #### 2022.4.7 重大机制更新
 
