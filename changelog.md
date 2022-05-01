@@ -3,6 +3,12 @@
 
 <center><big><big><big><big><bold>想招管理</bold></big></big></big></big></center>
 
+### 2022.05
+
+#### 2022.5.1 适配兼容调试
+
+* 更改 于RaidLimiter的Issues被原作者回应，解决在未删除`data.yml`的`NullPointException[WARN]`，并将转为Gradle项目的RaidLimiter重载为ver1.2
+
 ### 2022.04
 
 #### 2022.4.19 经济改制
