@@ -26,21 +26,21 @@ SSD：`80G(MAX)Available for expand`
 ## 服务器plugin(插件)支持
 由Paper驱动的服务端可以使用多种基于原版的兼容插件，以下列出的是有兽焉服务器支持的部分插件列表。</br>  _版本更新可能存在延迟_
 
-| 插件         | 原名称             | 版本      |
-|------------|-----------------|---------|
-| 全球市场       | AuctionHouse    | `3.0.4`  |
-| 玩家登录系统     | AuthmeReloaded  | `5.6.0`   |
-| 菜单系统       | BossShopPro     | `2.0.9`   |
-| 一键物品分类     | Chestsort       | `13.0.0`  |
-| 在线奖励       | CtOnlineReward  | `0.1.7`   |
-| PVP综合经济（待启用）  | DantiaoEX             | `EX-27`   |
-| 基础指令集（传送等） | EssentialsX     | `2.19.4`  |
-| 导入图片到MC    | Image           | `2.2.4`   |
-| 红石音乐菜单     | JukeBox         | `1.20.6`  |
-| 多世界核心      | Multiverse-Core | `4.3.1`   |
-| 称号系统       | PlayerTitle     | `2.10.1`  |
-| 领地         | Residence       | `5.0.1.3` |
-| Tab菜单与计分板优化  | TAB             | `3.0.1`   |
+| 插件         | 原名称             |
+|------------|-----------------|
+| 全球市场       | AuctionHouse    |
+| 玩家登录系统     | AuthmeReloaded  |
+| 菜单系统       | BossShopPro     |
+| 一键物品分类     | Chestsort       |
+| 在线奖励       | CtOnlineReward  |
+| PVP综合经济（待启用）  | DantiaoEX             |
+| 基础指令集（传送等） | EssentialsX     |
+| 导入图片到MC    | Image           |
+| 红石音乐菜单     | JukeBox         |
+| 多世界核心      | Multiverse-Core |
+| 称号系统       | PlayerTitle     |
+| 领地         | Residence       |
+| Tab菜单与计分板优化  | TAB             |
 
 
 ## Git仓库基本项目
