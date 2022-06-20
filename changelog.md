@@ -7,19 +7,19 @@
 
 #### 2022.6.20 维护与清理
 
-* <font color="7CFC00">优化 io-netty-thread参数调整，应该能解决高Ping问题。</font>
+* <font color="48b984">优化 io-netty-thread参数调整，应该能解决高Ping问题。</font>
 * 调整 漏斗筛选速度调整为2s/个，请善用漏斗，避免卡服造成整体体验下降。
-* <font color="7CFC00">修复 解决了1.19版本在随机传送时意外崩溃的Bug。</font>
-* <font color="7CFC00">优化 同区块实体数量上限。</font>
-* <font color="7CFC00">优化 改善高频红石判断逻辑。</font>
-* <font color="7cfc00">优化 改善高频红石判断逻辑。</font>
+* <font color="48b984">修复 解决了1.19版本在随机传送时意外崩溃的Bug。</font>
+* <font color="48b984">优化 同区块实体数量上限。</font>
+* <font color="48b984">优化 改善高频红石判断逻辑。</font>
+* <font color="48b984">优化 改善高频红石判断逻辑。</font>
 
 #### 2022.6.18 底层版本更新
 
 * 服务器版本已更新到1.18.2，请使用1.18.2-1.19.x进入
 
 > <font color="fc0000">[Unsupported]跨版本插件作者提示，旧版本（包括子版本）均不可进入，请使用1.18.2及以上版本</font>
-<br/><font color="7CFC00">[Bug]1.19版本使用随机传送会出现断连。（已修复）</font>
+<br/><font color="48b984">[Bug]1.19版本使用随机传送会出现断连。（已修复）</font>
 <br/>[DeBug]Trchat后端仍待修复（不影响正常使用）。
 
 #### 2022.6.15 插件重写计划
