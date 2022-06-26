@@ -1,8 +1,8 @@
 ---
 name: Feature request/玩法建议
 about: 其他玩法建议
-title: ''
-labels: ''
+title: "[建议]"
+labels: suggestion/建议
 assignees: ''
 
 ---
