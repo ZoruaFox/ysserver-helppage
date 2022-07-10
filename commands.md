@@ -63,7 +63,7 @@
 | 指令用法说明                | 指令描述           | 指令用法说明                            | 指令描述              |
 |-----------------------|----------------|-----------------------------------|-------------------|
 | `/res create YEE`     | 创建一个名叫YEE的领地   | `/res message <enter/leave> <文本>` | 设置领地的进入/离开消息      |
-| `/res rename YEE 233` | 删除YEE领地        | `/res subzone YEEEE`              | 在你的领地创建叫YEEEE的子领地 |
+| `/res remove YEE` | 删除YEE领地        | `/res subzone YEEEE`              | 在你的领地创建叫YEEEE的子领地 |
 | `/res set`            | 设置你的领地权限       | `/res listall`                    | 显示全球领地            |
 | `/res expand 5`       | 向你面朝的方向扩展领地5格  | `/res rename YEE 233`             | 将YEE重命名为233       |
 | `/res contract 5`     | 上面的反命令         | `/res current`                    | 显示你在谁家            |
