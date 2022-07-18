@@ -69,7 +69,7 @@
 [![jIXQfS.png](https://s1.ax1x.com/2022/07/18/jIXQfS.png)](https://imgtu.com/i/jIXQfS)
 
 
-## 8、其他常见问题
+## 9、其他常见问题
 **Q1** 无法连接到服务器
 
 常见情况如下
