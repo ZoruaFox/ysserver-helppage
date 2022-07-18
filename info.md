@@ -66,6 +66,7 @@
 
 服务器的聊天系统得益于插件功能与原版有别，配合聊天框指令可实现更多功能。
 输入以下指令，可以激活对应功能。亦可以通过在服务器中输入`/interactivechat list`查看。
+
 [![jIXQfS.png](https://s1.ax1x.com/2022/07/18/jIXQfS.png)](https://imgtu.com/i/jIXQfS)
 
 
