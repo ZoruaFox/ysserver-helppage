@@ -66,7 +66,7 @@
 | `/res remove YEE` | 删除YEE领地        | `/res subzone YEEEE`              | 在你的领地创建叫YEEEE的子领地 |
 | `/res set`            | 设置你的领地权限       | `/res listall`                    | 显示全球领地            |
 | `/res expand 5`       | 向你面朝的方向扩展领地5格  | `/res rename YEE 233`             | 将YEE重命名为233       |
-| `/res contract 5`     | 上面的反命令         | `/res current`                    | 显示你在谁家            |
+| `/res contract 5`     | 上面的反命令(禁用)         | `/res current`                    | 显示你在谁家            |
 | `/res padd <玩家>`      | 将信任的小伙伴添加到你的领地 | `/res compass YEE`                | 指南针将指向YEE         |
 | `/res pdel <玩家>`      | 移除小伙伴的领地权限     | `/res give <玩家>`                  | 将你的领地送出去          |
 | `/res tpset`          | 设置你的站位为领地传送点   |                                   |                   |
