@@ -16,7 +16,7 @@ SSD：`80G(MAX)Available for expand`
 
 整合服务端提供方：`PaperMC`
 
-整合服务端版本号：`Paper-386`
+整合服务端版本号：`Paper-261`
 
 游戏版本号：`1.19.2`
 
