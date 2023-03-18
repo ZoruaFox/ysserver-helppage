@@ -17,7 +17,7 @@ Minecraft Java版支持Windows和多个以PC为主的系统，而基岩版支持
 - 为了能够在线玩Minecraft基岩版，你需要注册一个Xbox账户²。如果你已经有一个Xbox账户，你可以跳过这一步。
 
 - 你可以在Xbox官网²注册一个免费的Xbox账户。只需要填写一些基本信息，如邮箱、密码、用户名等。
-> <font color=red>！！注意：在Xbox玩家标签中不要使用中文，也不要使用下划线，如果遇到下划线，请使用空格替代。这很重要</font>
+> <font color=red>！！注意：在Xbox玩家标签中不要使用中文，也不要使用下划线，也 不 要 使 用 空 格。这很重要</font>
 
 > <font color=red>**注意：你的Xbox账户必须与你的游戏ID相一致，如果你拥有一个Java版ID，请确保你的 Xbox玩家标签 保持一致，否则你将无法登入服务器。**</font>
 ![img](../resources/XboxMainPage.png)
