@@ -4,4 +4,4 @@
 * [服务器指令查阅（持续更新）](docs/commands.md)
 * [常见问题 FAQ](docs/info.md)
 * [维护记录](docs/changelog.md)
-* [针对版本升级的说明](docs/announcement.md)
+* [Java、基岩双端互通教程](docs/announcement.md)

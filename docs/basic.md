@@ -7,18 +7,18 @@
 
 CPU：`AMD EPYC 7K62 48-Core Processors `
 
-内存：`4G(MAX)`
+内存：`4G`
 
-SSD：`80G(MAX)Available for expand`
+SSD：`80G`
 
 ## 底层信息
 更新1.17.1后，服务器曾在Spigot与Paper中反复斟酌，最终选用了性能卓越，兼容性良好的高效服务端Paper。
 
+1.19.2后，服务器经过插件互通，已经可以支持
+
 整合服务端提供方：`PaperMC`
 
-整合服务端版本号：`Paper-261`
-
-游戏版本号：`1.19.2`
+游戏版本号：`Java1.19.2及以上  基岩1.19.30及以上`
 
 ## 服务器 Forge （模组）支持
 升级至1.17.1后，服务器不再支持任何 Forge / Fabric 模组。但是由于原版生存的兼容性，安装了MOD的玩家依然可以进入。
@@ -33,10 +33,8 @@ SSD：`80G(MAX)Available for expand`
 | 菜单系统       | BossShopPro     |
 | 一键物品分类     | Chestsort       |
 | 在线奖励       | CtOnlineReward  |
-| PVP综合经济（待启用）  | DantiaoEX             |
+| PVP综合经济  | DantiaoEX             |
 | 基础指令集（传送等） | EssentialsX     |
-| 导入图片到MC    | Image           |
-| 红石音乐菜单     | JukeBox         |
 | 多世界核心      | Multiverse-Core |
 | 称号系统       | PlayerTitle     |
 | 领地         | Residence       |

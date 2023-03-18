@@ -35,7 +35,7 @@
 ## 5、收购商店
 主菜单的收购商店可以将物品换为金球球。
 
-[![XynkVJ.png](https://s1.ax1x.com/2022/06/09/XynkVJ.png)](https://imgtu.com/i/XynkVJ)
+![img](https://s1.ax1x.com/2022/06/09/XynkVJ.png)
 
 ## 6、领地
 ### 关于领地
@@ -67,7 +67,7 @@
 服务器的聊天系统得益于插件功能与原版有别，配合聊天框指令可实现更多功能。
 输入以下指令，可以激活对应功能。亦可以通过在服务器中输入  `/interactivechat list` 查看。
 
-[![jIXQfS.png](https://s1.ax1x.com/2022/07/18/jIXQfS.png)](https://imgtu.com/i/jIXQfS)
+![img](../resources/interactivechat.png)
 
 ## 9、装备强化
 
