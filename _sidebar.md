@@ -5,3 +5,13 @@
 * [常见问题 FAQ](docs/info.md)
 * [维护记录](docs/changelog.md)
 * [Java、基岩双端互通教程](docs/announcement.md)
+
+
+
+
+
+</br>
+</br>
+——————————
+
+[晋ICP备2023005192](https://beian.miit.gov.cn/)
