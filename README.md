@@ -10,8 +10,8 @@
 
 服务器的几乎全部信息，包括版本号、使用的MOD、服务器支持的指令，甚至是商店的价格，都将可以在这里找到。
 
-当然，这个帮助文档依然在不断完善，如果在阅读文档中有什么 **不理解的** ，或者是觉得这里 **可以再补充些什么的** ，都可以发到群里，或者是转到 </br>**[Issues界面（问题发布界面）](https://github.com/ZoruaFox/YSY-Server/issues)** </br> 
-**[Issues界面（Gitee备用站）](https://gitee.com/zorua__fox/YSY-Server/issues)** </br>提交问题
+当然，这个帮助文档依然在不断完善，如果在阅读文档中有什么 **不理解的** ，或者是觉得这里 **可以再补充些什么的** ，都可以发到群里，或者是转到 </br>**[Issues界面（问题发布界面）](https://github.com/ZoruaFox/ZoruaFox.github.io/issues)** </br> 
+**[Issues界面（Gitee备用站）](https://gitee.com/zorua__fox/ZoruaFox.github.io/issues)** </br>提交问题
 
 目前进度：日常维护。
 
