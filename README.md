@@ -22,8 +22,6 @@
 **群号：** `971327134`，加群链接：[点此加入有兽焉粉丝服（Java/基岩国际）官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
 
 ## 赞助
-<p>
-![img](../resources/donate-Alipay.jpg)
-![img](../resources/donate-WeChatPay.png)
-![img](../resources/donate-QQPay.png)
-</p>
+[<img align="left" width="240" src="https://raw.githubusercontent.com/ZoruaFox/ZoruaFox.github.io/main/resources/donate-Alipay.jpg" />](#)
+[<img align="left" width="240" src="https://raw.githubusercontent.com/ZoruaFox/ZoruaFox.github.io/main/resources/donate-WeChatPay.png" />](#)
+[<img align="left" width="240" src="https://raw.githubusercontent.com/ZoruaFox/ZoruaFox.github.io/main/resources/donate-QQPay.png" />](#)
