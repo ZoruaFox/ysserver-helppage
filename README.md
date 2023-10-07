@@ -21,11 +21,7 @@
 
 **群号：** `971327134`，加群链接：[点此加入有兽焉粉丝服（Java/基岩国际）官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
 
-
-
-https://z1.ax1x.com/2023/10/07/pPjUpX6.jpg
-
 ## 赞助
-[<img align="left" width="240" src="https://z1.ax1x.com/2023/10/07/pPjUCnK.png" />](#)
-[<img align="left" width="240" src="https://z1.ax1x.com/2023/10/07/pPjUS6x.png" />](#)
-[<img align="left" width="240" src="https://z1.ax1x.com/2023/10/07/pPjUpX6.jpg" />](#)
+[<img align="left" width="240" src="./resources/donate-WeChatPay.png" />](#)
+[<img align="left" width="240" src="./resources/donate-Alipay.jpg" />](#)
+[<img align="left" width="240" src="./resources/donate-QQPay.png" />](#)
