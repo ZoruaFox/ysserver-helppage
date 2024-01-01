@@ -1,4 +1,4 @@
-![image](https://github.com/ZoruaFox/ZoruaFox.github.io/assets/96456728/a4fb7e1d-40e9-4bd9-bfcd-b2dbd3d8ddc5)# Minecraft有兽焉服务器
+# Minecraft有兽焉服务器
 -----------
 有兽焉服务器帮助中心</br>
 服务器群号：`971327134`</br>
@@ -22,4 +22,8 @@
 **群号：** `971327134`，加群链接：[点此加入有兽焉粉丝服（Java/基岩国际）官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
 
 ## 赞助
-[<img align="center" width="240" src="./resources/donate-Afd.jpg" />](https://afdian.net/a/zoruafox)
+<div align="center" herf="https://example.com">
+<a href="https://afdian.net/a/ZoruaFox">
+<img width="240" src="./resources/donate-Afd.png"/>
+</a>
+</div>
