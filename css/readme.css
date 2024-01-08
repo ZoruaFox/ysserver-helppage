@@ -1,0 +1,60 @@
+.record {
+    display: block;
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+.record a {
+    text-decoration: none;
+    color: #555;
+}
+
+.record a:hover {
+    text-decoration: underline;
+}
+
+.split-line {
+    display: inline-block;
+    border: 1px solid #e7e7e7;
+    width: 300px;
+}
+
+
+.sponsor-tips {
+    color: #fff;
+}
+
+.sponsorship {
+    text-align: left;
+}
+
+.sponsorship a {
+    display: inline-block;
+    font-size: 0;
+    border: 2px dashed #e7e7e7;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.sponsorship a img {
+    border-radius: 8px;
+}
+
+.ic-github {
+    font-size: 18px !important;
+    margin-left: -1px;
+    margin-right: -1px;
+}
+
+.ic-gitee {
+    color: #c71d23;
+}
+
+.ic-qq {
+    color: #61b0ef;
+}
+
+.ic-wiki {
+    color: #9f9f9f;
+}

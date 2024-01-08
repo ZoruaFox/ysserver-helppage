@@ -1,7 +1,7 @@
 # Minecraft有兽焉服务器
 -----------
 有兽焉服务器帮助中心</br>
-服务器群号：`971327134`</br>
+服务器群号：<span class="iconfont ic-qq">&#xe611;</span> `971327134`</br>
 加群链接：[点此加入有兽焉粉丝服（Java/基岩国际）官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)</br>
 ![img](https://jiankong.zorua.top/api/badge/10/uptime/1?labelPrefix=Minecraft%E7%B2%89%E4%B8%9D%E6%9C%8D&prefix=%E5%81%A5%E5%BA%B7%E5%BA%A6&style=for-the-badge)![img](https://jiankong.zorua.top/api/badge/10/status?style=for-the-badge)
 ## 导言
@@ -10,20 +10,24 @@
 
 服务器的几乎全部信息，包括版本号、使用的MOD、服务器支持的指令，甚至是商店的价格，都将可以在这里找到。
 
-当然，这个帮助文档依然在不断完善，如果在阅读文档中有什么 **不理解的** ，或者是觉得这里 **可以再补充些什么的** ，都可以发到群里，或者是转到 </br>**[Issues界面（问题发布界面）](https://github.com/ZoruaFox/ZoruaFox.github.io/issues)** </br> 
-**[Issues界面（Gitee备用站）](https://gitee.com/zorua__fox/ZoruaFox.github.io/issues)** </br>提交问题
+当然，这个帮助文档依然在不断完善，如果在阅读文档中有什么 **不理解的** ，或者是觉得这里 **可以再补充些什么的** ，都可以发到群里，或者是转到 </br>
+**<span class="iconfont ic-github">&#xe85a;</span> [Issues界面（问题发布界面）](https://github.com/ZoruaFox/ZoruaFox.github.io/issues)** </br> 
+**<span class="iconfont ic-gitee">&#xe60c;</span> [Issues界面（Gitee备用站）](https://gitee.com/zorua__fox/ZoruaFox.github.io/issues)** </br>
+提交问题
 
 目前进度：日常维护。
 
 进入正题，点击侧边栏想了解的主题，看看已经编写好的内容
 
-=======
+<span class="split-line"></span>
 
-**群号：** `971327134`，加群链接：[点此加入有兽焉粉丝服（Java/基岩国际）官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
+**群号：** <span class="iconfont ic-qq">&#xe611;</span> `971327134`，加群链接：[点此加入有兽焉粉丝服（Java/基岩国际）官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
 
 ## 赞助
-<div align="center" herf="https://example.com">
-<a href="https://afdian.net/a/ZoruaFox">
-<img width="240" src="./resources/donate-Afd.png"/>
-</a>
+为服务器日常维护和续命给与支持                                                         
+
+<div class="sponsorship">
+    <a href="https://afdian.net/a/ZoruaFox" target="_blank">
+        <img width="240" src="./resources/donate-Afd.png" alt="爱发电"/>
+    </a>
 </div>

@@ -43,9 +43,9 @@ SSD：`80G`
 
 ## Git 仓库基本项目
 
-服务器在 GitHub 和 Gitee 上可能存有部分内容，以及不排除将来发布的 Pull Request 项目。Gitee 仓库页面将采用中文译名。
+服务器在 <span class="iconfont ic-github">&#xe85a;</span> GitHub 和 <span class="iconfont ic-gitee">&#xe60c;</span> Gitee 上可能存有部分内容，以及不排除将来发布的 Pull Request 项目。<span class="iconfont ic-gitee">&#xe60c;</span> Gitee 仓库页面将采用中文译名。
 
-Wiki 界面由于已存在本帮助页面不另加撰写。此外，Actions等不可克隆界面将一并说明。
+<span class="iconfont ic-wiki">&#xe688;</span> Wiki 界面由于已存在本帮助页面不另加撰写。此外，Actions等不可克隆界面将一并说明。
 
 | Github                                                       | Gitee（备用）                                              | 概述     |
 | ------------------------------------------------------------ | ---------------------------------------------------------- | -------- |

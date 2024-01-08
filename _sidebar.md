@@ -10,8 +10,4 @@
 
 
 
-</br>
-</br>
-——————————
-
-[晋ICP备2023005192](https://beian.miit.gov.cn/)
+<span class="record">©2024 有兽焉粉丝服务器<br>[晋ICP备2023005192](https://beian.miit.gov.cn/)</span>
