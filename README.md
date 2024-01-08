@@ -4,7 +4,7 @@
 服务器群号：<span class="iconfont ic-qq">&#xe611;</span> `971327134`</br>
 加群链接：[点此加入有兽焉粉丝服（Java/基岩国际）官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)</br>
 ![img](https://jiankong.zorua.top/api/badge/10/uptime/1?labelPrefix=Minecraft%E7%B2%89%E4%B8%9D%E6%9C%8D&prefix=%E5%81%A5%E5%BA%B7%E5%BA%A6&style=for-the-badge)![img](https://jiankong.zorua.top/api/badge/10/status?style=for-the-badge)
-## 导言
+## 前言
 
 如你所见，这是一个关于Minecraft有兽焉粉丝服务器的wiki页面，你可以把它理解为一个 **帮助文档** 。
 
