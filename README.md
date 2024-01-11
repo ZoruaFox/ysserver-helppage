@@ -25,11 +25,9 @@
 
 ## 赞助
 为服务器日常维护和续命给与支持                                                         
-
-<iframe id="afdian_leaflet_zoruafox" src="https://afdian.net/leaflet?slug=zoruafox" width="100%" scrolling="no" height="auto" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_zoruafox").width = "100%" : document.getElementById("afdian_leaflet_zoruafox").width = "640"</script>
-
 <div class="sponsorship">
     <a href="https://afdian.net/a/ZoruaFox" target="_blank">
-        <img width="240" src="./resources/donate-Afd.png" alt="爱发电"/>
+        <img width="240" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="爱发电"/>
     </a>
 </div>
+<iframe id="afdian_leaflet_zoruafox" src="https://afdian.net/leaflet?slug=zoruafox" width="100%" scrolling="no" height="auto" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_zoruafox").width = "100%" : document.getElementById("afdian_leaflet_zoruafox").width = "640"</script>
