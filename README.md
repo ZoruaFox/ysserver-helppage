@@ -30,4 +30,4 @@
         <img width="240" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="爱发电"/>
     </a>
 </div>
-<iframe id="afdian_leaflet_zoruafox" src="https://afdian.net/leaflet?slug=zoruafox" width="100%" scrolling="no" height="auto" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_zoruafox").width = "100%" : document.getElementById("afdian_leaflet_zoruafox").width = "640"</script>
+<iframe id="afdian_leaflet_zoruafox" src="https://afdian.net/leaflet?slug=zoruafox" width="100%" scrolling="no" height="400" frameborder="0"></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_zoruafox").width = "100%" : document.getElementById("afdian_leaflet_zoruafox").width = "640"</script>
