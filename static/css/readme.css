@@ -26,15 +26,31 @@
 }
 
 .sponsorship {
+    max-width: 1100px;
     text-align: left;
+}
+
+.sponsorship .title{
+    margin-bottom: 10px;
+}
+
+.sponsorship .frame{
+    display: inline-block;
+    border: 1px solid #f3f3f3;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 5px #efefef;
+    text-align: center;
+}
+
+.sponsorship .frame iframe{
+    border: 0;
+    margin: 0;
 }
 
 .sponsorship a {
     display: inline-block;
     font-size: 0;
-    border: 2px dashed #e7e7e7;
-    border-radius: 8px;
-    padding: 10px;
 }
 
 .sponsorship a img {
