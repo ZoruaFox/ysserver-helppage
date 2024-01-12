@@ -24,10 +24,14 @@
 **群号：** <span class="iconfont ic-qq">&#xe611;</span> `971327134`，加群链接：[点此加入有兽焉粉丝服（Java/基岩国际）官群](https://jq.qq.com/?_wv=1027&k=EcPiJtYh)
 
 ## 赞助
-为服务器日常维护和续命给与支持                                                         
+为服务器日常维护和续命给与支持  
+<div align="center">
 <div class="sponsorship">
     <a href="https://afdian.net/a/ZoruaFox" target="_blank">
         <img width="240" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="爱发电"/>
+    </a>
+    <a href="https://afdian.net/a/ZoruaFox" target="_blank">
+        <img width="80%" src="https://cos.zorua.top/Sponsor/sponsors.svg" alt="赞助名单"/>
     </a>
 </div>
 <iframe src="https://afdian.net/leaflet?slug=zoruafox" width="640" scrolling="no" height="200" frameborder="0"></iframe></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_zoruafox").width = "100%" : document.getElementById("afdian_leaflet_zoruafox").width = "640"</script>
