@@ -34,4 +34,5 @@
         <img width="80%" src="https://cos.zorua.top/Sponsor/sponsors.svg" alt="赞助名单"/>
     </a>
 </div>
+</div>
 <iframe src="https://afdian.net/leaflet?slug=zoruafox" width="640" scrolling="no" height="200" frameborder="0"></iframe></iframe><script>document.body.clientWidth< 700 ? document.getElementById("afdian_leaflet_zoruafox").width = "100%" : document.getElementById("afdian_leaflet_zoruafox").width = "640"</script>
