@@ -41,11 +41,14 @@
     overflow: hidden;
     box-shadow: 0 0 5px #efefef;
     text-align: center;
+    max-width: 800px;
+    background-color: #fff;
 }
 
 .sponsorship .frame iframe{
     border: 0;
     margin: 0;
+    width: 102%;
 }
 
 .sponsorship a {
@@ -73,4 +76,10 @@
 
 .ic-wiki {
     color: #9f9f9f;
+}
+
+#main #docsify-darklight-theme{
+    position: absolute;
+    top: 40px;
+    left: calc(100% - 40px);
 }
