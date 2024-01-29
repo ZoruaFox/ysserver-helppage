@@ -1,5 +1,11 @@
 let hostname = window.location.hostname;
-let url_prefix = hostname === "localhost" || hostname === "127.0.0.1" ? './' : 'https://help.mc.zorua.top/pages/'
+let url_prefix = './'
+let _sidebar_file = './_sidebar'
+
+if(hostname === "help.mc.zorua.top") {
+    url_prefix = 'https://help.mc.zorua.top/pages/'
+    _sidebar_dic = 'https://help.mc.zorua.top/pages/_sidebar_origin'
+}
 
 let css_list = [
     'iconfont/iconfont.css',
