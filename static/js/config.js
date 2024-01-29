@@ -6,7 +6,7 @@ let home_page = 'README.md'
 
 // 远程域名配置
 if(hostname === "help.mc.zorua.top") {
-    url_prefix = 'https://help.mc.zorua.top/pages/'
+    url_prefix = 'pages/'
     _sidebar_file = `${url_prefix}_sidebar_origin`
     home_page = `${url_prefix}README.md`
 }
