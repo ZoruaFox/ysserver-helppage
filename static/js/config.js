@@ -4,7 +4,7 @@ let _sidebar_file = './_sidebar'
 
 if(hostname === "help.mc.zorua.top") {
     url_prefix = 'https://help.mc.zorua.top/pages/'
-    _sidebar_dic = 'https://help.mc.zorua.top/pages/_sidebar_origin'
+    _sidebar_file = 'https://help.mc.zorua.top/pages/_sidebar_origin'
 }
 
 let css_list = [
