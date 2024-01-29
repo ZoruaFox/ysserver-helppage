@@ -26,4 +26,4 @@ jobs:
         run: |
           coscmd delete -r / -f
           coscmd upload -r /home/runner/work/ysserver-helppage/ysserver-helppage /pages
-          coscmd move -r pages/ /
+          coscmd move -r pages /
