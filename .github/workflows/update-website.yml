@@ -1,28 +1,18 @@
-name: 更新帮助网站
+name: Update Website
 
 on:
-  workflow_dispatch:
   push:
-    branches: [ main ]
+    branches:
+      - main
 
 jobs:
-  update-website:
+  deploy:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      
-      - name: Install coscmd
-        run: sudo pip install coscmd
-            
-      - name: Configure coscmd
-        env:
-          SECRET_ID: ${{ secrets.SECRET_ID }}
-          SECRET_KEY: ${{ secrets.SECRET_KEY }}
-          BUCKET: helppage-1306537081
-          REGION: ap-beijing
-        run: coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
-        
-      - name: Delete Old Files & Update
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install ossutil
         run: |
-          coscmd delete -r / -f
-          coscmd upload -r /home/runner/work/ysserver-helppage/ysserver-helppage /pages
+          sudo -v ; curl https://gosspublic.alicdn.com/ossutil/install.sh | sudo bash
