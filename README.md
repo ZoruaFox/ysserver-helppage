@@ -1,3 +1,4 @@
+# 本文档正在重构，详见https://github.com/ZoruaFox/YsServer-HelpPage-New
 # Minecraft有兽焉服务器
 -----------
 有兽焉服务器帮助中心</br>
